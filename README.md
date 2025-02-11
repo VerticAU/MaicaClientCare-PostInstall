@@ -2,7 +2,7 @@
 
 # Maica Client Care - Post Install
 
-### Contains:
+### Includes:
 1.'Maica - System Permissions' Permission Set
 
 ### Maica - System Permissions
