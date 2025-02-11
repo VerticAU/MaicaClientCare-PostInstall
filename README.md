@@ -13,4 +13,4 @@
 
 This needs to be assigned to all of your Maica users.
 
-This Permission Set is not part of the Maica Managed Package but is manually installed via this link as shown in this online demonstration video. The reason we need to do it this way is due to the Salesforce restriction that prevents us from including System Permissions and objects with a Master-Detail relationship to a standard object (Contact) to a package's Permission Sets.
+This Permission Set is not part of the Maica Managed Package but is manually installed via [this link](https://github.com/VerticAU/MaicaClientCare-PostInstall) as shown in this online demonstration video. The reason we need to do it this way is due to the Salesforce restriction that prevents us from including System Permissions and objects with a Master-Detail relationship to a standard object (Contact) to a package's Permission Sets.
