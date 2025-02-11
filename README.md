@@ -3,7 +3,7 @@
 # Maica Client Care - Post Install
 
 ### Includes:
-1.'Maica - System Permissions' Permission Set
+1. 'Maica - System Permissions' Permission Set
 
 ### Maica - System Permissions
 **This Permission Set contains the following required permissions**:
