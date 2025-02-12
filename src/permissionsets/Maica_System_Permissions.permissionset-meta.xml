@@ -3,7 +3,7 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>Maica - System Permissions</label>
     <license>Salesforce</license>
-    <description>Provides core Maica Permissions that cannot be included in the Maica Client Care package due to Salesforce behaviour that prevents adding System Permissions and objects with a Master-Detail relationship to a standard object (Contact) to a package's Permission Sets.</description>
+    <description>Provides core Maica Permissions that cannot be included in the Maica package due to Salesforce limit that prevents adding System Permissions and objects with a Master-Detail relationship to a standard object (Contact) to a package's Permission Sets.</description>
     <userPermissions>
         <enabled>true</enabled>
         <name>CustomizeApplication</name>
