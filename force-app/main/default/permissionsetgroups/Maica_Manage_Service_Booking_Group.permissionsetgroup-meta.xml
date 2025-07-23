@@ -4,7 +4,7 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>Maica - Manage Service Booking &amp; Object Permissions</label>
     <permissionSets>maica_cc__Maica_Booking_Item_Create_Access</permissionSets>
-    <permissionSets>maica_cc__Maica_Booking_Item_Delete_Access</permissionSets>
+    <permissionSets>Maica_Booking_Item_Delete_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Booking_Item_Edit_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Booking_Item_Read_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Contact_Read_Access</permissionSets>
