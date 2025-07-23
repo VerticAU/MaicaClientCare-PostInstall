@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants users the ability to create a Shift from anywhere in the Maica application.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Maica - Global - Create Shift &amp; Object Permissions</label>
+    <permissionSets>maica_cc__Maica_Accommodation_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Account_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Agreement_Item_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Resource_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Resource_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Service_Checklist_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Service_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Availability_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Contact_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Delivery_Activity_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Delivery_Activity_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Delivery_Activity_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Global_Create_Shift</permissionSets>
+    <permissionSets>maica_cc__Maica_Operating_Hour_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Participant_Note_Template_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Preference_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Price_List_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Resource_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Schedule_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Schedule_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Service_Agreement_Leave_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Service_Agreement_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Support_Category_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Support_Item_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Unavailability_Read_Access</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

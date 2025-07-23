@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants users the ability to create Participant Notes from anywhere in the Maica application.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Maica - Global - Create Participant Notes &amp; Object Permissions</label>
+    <permissionSets>maica_cc__Maica_Appointment_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Resource_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Appointment_Service_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Contact_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Delivery_Activity_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Delivery_Activity_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Global_Create_Participant_Note</permissionSets>
+    <permissionSets>maica_cc__Maica_Location_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Participant_Goal_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Participant_Note_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Participant_Note_Template_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Resource_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Timesheet_Read_Access</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

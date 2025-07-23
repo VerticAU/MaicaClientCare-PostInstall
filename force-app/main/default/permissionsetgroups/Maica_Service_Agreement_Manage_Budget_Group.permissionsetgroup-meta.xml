@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Provides the ability to access the Manage Budget quick action (and associated functionality) on the Service Agreement object.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Maica - Service Agreement - Manage Budget &amp; Object Permissions</label>
+    <permissionSets>maica_cc__Maica_Contact_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Contact_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Contact_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Item_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Service_Agreement_Manage_Budget</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

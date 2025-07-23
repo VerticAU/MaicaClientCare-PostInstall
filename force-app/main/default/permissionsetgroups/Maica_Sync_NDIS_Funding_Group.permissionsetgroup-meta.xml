@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Enables the execution of callouts to the NDIS for syncing Plan and/or Service Booking details. Data access will replicate what is available in the Provider Portal and will be governed by the consent and relationships established with your customers.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Maica - Sync NDIS Funding &amp; Object Permissions</label>
+    <permissionSets>maica_cc__Maica_Booking_Item_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Contact_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Goal_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Goal_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Item_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Item_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Period_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Funding_Period_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Service_Booking_Create_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Service_Booking_Edit_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Support_Category_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Support_Item_Read_Access</permissionSets>
+    <permissionSets>maica_cc__Maica_Sync_NDIS_Funding</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
