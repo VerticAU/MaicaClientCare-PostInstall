@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "MaicaClientCare-PostInstall",
+  "namespace": "maica_cc",
+  "sourceApiVersion": "64.0"
+}

@@ -1,5 +1,6 @@
 /*
 /.*
+!/sfdx-project.json
 !/.gitignore
 !/README.md
 !/force-app/
