@@ -3,62 +3,62 @@
     <description>Provides Edit access to all fields on the Connection object.</description>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Description__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Emergency_Contact__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Emergency_Contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Invoice_Recipient__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Invoice_Recipient__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Next_of_Kin__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Next_of_Kin__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Nominee__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Nominee__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Primary_Contact__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Primary_Contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Reciprocal_Connection__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Reciprocal_Connection__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Related_Contact__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Related_Contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Role__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Role__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Statement_Recipient__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Statement_Recipient__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Status__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Connection__c.Type__c</field>
+        <field>maica_cc__Connection__c.maica_cc__Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
@@ -69,7 +69,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
-        <object>Connection__c</object>
+        <object>maica_cc__Connection__c</object>
         <viewAllFields>true</viewAllFields>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>

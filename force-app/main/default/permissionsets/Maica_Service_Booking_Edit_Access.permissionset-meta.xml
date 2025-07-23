@@ -3,57 +3,57 @@
     <description>Provides Edit access to all fields on the Service Booking object.</description>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Booking_Type__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Booking_Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.End_Date__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__End_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Funding__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Funding__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Last_External_Sync__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Last_External_Sync__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.NDIS_Reference__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__NDIS_Reference__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Provider_Comments__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Provider_Comments__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Rejection_Notes__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Rejection_Notes__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Rejection_Reason__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Rejection_Reason__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Revised_End_Date__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Revised_End_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Start_Date__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Start_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Service_Booking__c.Status__c</field>
+        <field>maica_cc__Service_Booking__c.maica_cc__Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
@@ -74,7 +74,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
-        <object>Service_Booking__c</object>
+        <object>maica_cc__Service_Booking__c</object>
         <viewAllFields>true</viewAllFields>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
