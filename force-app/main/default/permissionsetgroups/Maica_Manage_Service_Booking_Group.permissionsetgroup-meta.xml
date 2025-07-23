@@ -3,14 +3,14 @@
     <description>Grants users access to the Manage Service Booking Quick Action on the Service Booking, including all related functionality (Increase Funding, Update, Extend, Approve, Reject).</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Maica - Manage Service Booking &amp; Object Permissions</label>
-    <permissionSets>maica_cc__Maica_Booking_Item_Create_Access</permissionSets>
+    <permissionSets>Maica_Booking_Item_Create_Access</permissionSets>
     <permissionSets>Maica_Booking_Item_Delete_Access</permissionSets>
-    <permissionSets>maica_cc__Maica_Booking_Item_Edit_Access</permissionSets>
-    <permissionSets>maica_cc__Maica_Booking_Item_Read_Access</permissionSets>
+    <permissionSets>Maica_Booking_Item_Edit_Access</permissionSets>
+    <permissionSets>Maica_Booking_Item_Read_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Contact_Read_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Funding_Read_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Manage_Service_Booking</permissionSets>
-    <permissionSets>maica_cc__Maica_Service_Booking_Read_Access</permissionSets>
+    <permissionSets>Maica_Service_Booking_Read_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Support_Category_Read_Access</permissionSets>
     <permissionSets>maica_cc__Maica_Support_Item_Read_Access</permissionSets>
     <status>Updated</status>
