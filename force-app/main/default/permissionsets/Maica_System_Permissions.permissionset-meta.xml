@@ -4,14 +4,14 @@
     <label>Maica - System Permissions</label>
     <license>Salesforce</license>
     <description>Provides core Maica Permissions that cannot be included in the Maica package due to Salesforce limit that prevents adding System Permissions and objects with a Master-Detail relationship to a standard object (Contact) to a package's Permission Sets.</description>
-    <userPermissions>
+    <!-- <userPermissions>
         <enabled>true</enabled>
         <name>CustomizeApplication</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageTranslation</name>
-    </userPermissions>
+    </userPermissions> -->
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageCustomPermissions</name>

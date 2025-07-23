@@ -23,8 +23,4 @@
         <viewAllFields>true</viewAllFields>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
-    <tabSettings>
-        <tab>Service_Booking__c</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>
